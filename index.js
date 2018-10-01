@@ -34,6 +34,7 @@ module.exports = {
 			"switchCase": 0,
 			"ignores": []
 		}],
+		"vue/require-default-prop": 0
 	},
 	overrides: [
 		{
