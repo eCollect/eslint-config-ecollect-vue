@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/eCollect/eslint-config-ecollect-vue#readme",
   "dependencies": {
-    "eslint-config-ecollect-base": "^0.0.2",
-    "eslint-plugin-vue": "^4.7.1",
-    "eslint-plugin-import": "^2.14.0",
-    "babel-eslint": "^9.0.0"
+    "eslint-config-ecollect-base": "^0.0.3",
+    "babel-eslint": "^10.0.1"
   },
   "peerDependencies": {
-    "eslint": "^5.5.0"        
+    "eslint": "^5.9.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "eslint-plugin-import": "^2.14.0"
   }
 }
