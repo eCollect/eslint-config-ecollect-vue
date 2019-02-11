@@ -9,7 +9,7 @@ module.exports = {
   },
   extends: [
     "plugin:vue/recommended",
-    requrie.resolve("./rules/imports.js"),
+    require.resolve("./rules/imports.js"),
     require.resolve("eslint-config-ecollect-base")
   ],
   plugins: ["vue"],
