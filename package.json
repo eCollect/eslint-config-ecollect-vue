@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ecollect-vue",
-  "version": "0.0.3",
+  "version": "0.1.0-beta.0",
   "description": "eCollect's Vue.js style-guide and lint rules.",
   "main": "index.js",
   "repository": {
@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/eCollect/eslint-config-ecollect-vue#readme",
   "dependencies": {
-    "eslint-config-ecollect-base": "^0.0.3",
-    "babel-eslint": "^10.0.1"
+    "eslint-config-ecollect-base": "^0.1.1"
   },
   "peerDependencies": {
-    "eslint": "^5.9.0",
-    "eslint-plugin-vue": "^5.0.0",
-    "eslint-plugin-import": "^2.14.0"
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0",
+    "eslint-plugin-vue": "^5.1.0",
+    "eslint-plugin-import": "^2.16.0"
   }
 }
