@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ecollect-vue",
-  "version": "0.1.0-beta.1",
+  "version": "0.2.0",
   "description": "eCollect's Vue.js style-guide and lint rules.",
   "main": "index.js",
   "repository": {
